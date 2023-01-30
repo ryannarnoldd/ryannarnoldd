@@ -5,15 +5,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryannarnoldd" alt="ryannarnoldd" /></a> </p> -->
 
-- 🔭 I’m currently working on: [Advent of Code 2022](https://github.com/ryannarnoldd/Advent-of-Code/)
+- 🔭 I’m currently working on: [Faith Tasks](https://faithtasks.netlify.app/)
 
 - 👨‍💻 Add me on LinkedIn: [https://www.linkedin.com/in/ryan-s-arnold/](https://www.linkedin.com/in/ryan-s-arnold/)
 
-- 💬 Ask me about: **Discord bots** *Ryan.#3187*
+- 💬 Ask me about: **Discord Bots or my Faith!** *Ryan.#3187*
 
 - 📫 How to reach me: **ryannarnoldd@gmail.com**
 
-- ⚡ Fun fact: I am a **Rubik's Cube competitor**
+- ⚡ Fun fact: I am a **Christian and Rubik's Cube competitor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
