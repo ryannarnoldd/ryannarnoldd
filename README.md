@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Arnold</h1>
-<h3 align="center">A passionate Computer Science student from New Paltz, NY looking to apply my knowledge and skills to my faith!</h3>
+<h3 align="center">A passionate Computer Science student from Windermere, FL looking to apply my knowledge and skills to my faith!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryannarnoldd&label=Profile%20views&color=0e75b6&style=flat" alt="ryannarnoldd" /> </p> -->
 
